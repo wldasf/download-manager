@@ -2,4 +2,4 @@
 a simple download manager
 
 usage: 
-python3 download-manager.py <URL here>
+python3 download-manager.py URL
